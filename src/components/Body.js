@@ -111,6 +111,9 @@ export default function Body() {
               {`Views: ${detailItem[0].views}`}
             </Typography>
             <Typography variant="h6" className={classes.title}>
+              {`Size: ${detailItem[0].imageSize}`}
+            </Typography>
+            <Typography variant="h6" className={classes.title}>
               {`Likes: ${detailItem[0].likes}`}
             </Typography>
             <Typography variant="h6" className={classes.userProfile}>
