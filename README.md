@@ -1,5 +1,5 @@
 Online Photo Gallery . 
-Functanility : Image Searching, enlargedview, Images filtering and  Sorting.   
+Functanility : Image Searching, enlarged view, Images filtering and  Sorting.   
 In the background Images are Searched from PixaBay Image Api and the design is supported with MaterialUI. Its done with old-style Redux Thunk.
 
 PAGE1 : Landing Page 
